@@ -136,3 +136,63 @@ html, body {
     align-items: center;
     align-content: center;
 }
+
+.sevrer__2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text__box__1 {
+    color: black;
+    font-size: 35px;
+}
+
+.imgsg {
+    width: 200px;
+}
+
+.boxxxxxx {
+    width: 320px;
+    height: 260px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.losstfoolx {
+    color: black;
+    font-size: 20px;
+}
+
+.asddsa {
+    color: black;
+    font-size: 15px;
+}
+
+.go__adfd {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sevrer__3 {
+    width: 968px;
+    height: 380px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wqwqwq {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
