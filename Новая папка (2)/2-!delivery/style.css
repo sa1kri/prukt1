@@ -26,7 +26,7 @@ html, body {
 
 .site {
     width: 1080px;
-    height: 100%;
+    height: 3000px;
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
     margin-top: 70px;
@@ -195,4 +195,25 @@ html, body {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+}
+
+.rtert {
+    display: flex;
+    flex-direction: column;
+}
+
+.ytyt33 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sasasa {
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.ffffffssss {
+    font-size: 20px;
 }
